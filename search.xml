@@ -4,11 +4,11 @@
   
     
     <entry>
-      <title>测试</title>
-      <link href="blog/%E6%B5%8B%E8%AF%95/"/>
-      <url>blog/%E6%B5%8B%E8%AF%95/</url>
+      <title>test2</title>
+      <link href="blog/test2/"/>
+      <url>blog/test2/</url>
       
-        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="测试"><a href="#测试" class="headerlink" title="测试"></a>测试</h1>]]></content>
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="测试二"><a href="#测试二" class="headerlink" title="测试二"></a>测试二</h1>]]></content>
       
       
       
